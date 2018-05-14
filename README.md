@@ -44,8 +44,8 @@ The app was built using HTML, CSS, Boostrap, jQuery, Ajax, Express, PostgreSQL, 
 
 4. If the user tries to place the order without filling out the user name and the cellphone number fields first, an error message shows up to let the customer know each field(s) they need to fill out.
 
-!["Screenshot of Efoodordering Error Message"]()
-!["Screenshot of Efoodordering Error Message"]()
+!["Screenshot of Efoodordering Error Message"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/errormessage1.png?raw=true)
+!["Screenshot of Efoodordering Error Message"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/errormessage2.png?raw=true)
 
 
 5. If the user selects to pay at the restaurant, the order is submitted and the order detail as well as the pick up time is sent to both the customer and the restaurant through texts.
@@ -56,7 +56,7 @@ The app was built using HTML, CSS, Boostrap, jQuery, Ajax, Express, PostgreSQL, 
 
 6. If the user decides to pay online, another form pops up for the user to fill out.
 
-!["Screenshot of Efoodordering Card Payment Form"]()
+!["Screenshot of Efoodordering Card Payment Form"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/Stripe%20form.png?raw=true)
 
 7. Once the submit button is pressed, with Stripe, the payment is processed and the text messages are sent to both parties.
 

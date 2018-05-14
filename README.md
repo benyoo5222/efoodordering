@@ -31,16 +31,16 @@ The app was built using HTML, CSS, Boostrap, jQuery, Ajax, Express, PostgreSQL, 
 
 1. Press "Learn More" button on any item to find out the price, the description, as well as being able to add it to cart.
 
-!["Screenshot of Efoodordering Main Page"]()
+!["Screenshot of Efoodordering Main Page"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/Screen%20Shot%202018-05-13%20at%208.11.57%20PM.png?raw=true)
 
 2. When the user presses add to cart, the previously empty cart fills with items that the user selected.
 
-!["Screenshot of Efoodordering of Empty Cart"]()
-!["Screenshot of Efoodordering Filled Cart"]()
+!["Screenshot of Efoodordering of Empty Cart"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/Empty%20Cart.png?raw=true)
+!["Screenshot of Efoodordering Filled Cart"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/Filled%20Cart.png?raw=true)
 
 3. Once the user submits the order, the details of the order, the quantity of each item, as well as the total price is shown.
 
-!["Screenshot of Efoodordering Order Detail"]
+!["Screenshot of Efoodordering Order Detail"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/orderscreen.png?raw=true)
 
 4. If the user tries to place the order without filling out the user name and the cellphone number fields first, an error message shows up to let the customer know each field(s) they need to fill out.
 
@@ -51,8 +51,8 @@ The app was built using HTML, CSS, Boostrap, jQuery, Ajax, Express, PostgreSQL, 
 5. If the user selects to pay at the restaurant, the order is submitted and the order detail as well as the pick up time is sent to both the customer and the restaurant through texts.
 
 !["Screenshot of Efoodordering Success"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/Screen%20Shot%202018-05-06%20at%204.33.46%20PM.png?raw=true)
-!["Screenshot of Efoodordering Text Message to Customer"]()
-!["Screenshot of Efoodordering Text Message to Restaurant"]()
+!["Screenshot of Efoodordering Text Message to Customer"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/texts.png?raw=true)
+!["Screenshot of Efoodordering Text Message to Restaurant"](https://github.com/benyoo5222/efoodordering/blob/master/public/images/texts.png?raw=true)
 
 6. If the user decides to pay online, another form pops up for the user to fill out.
 
